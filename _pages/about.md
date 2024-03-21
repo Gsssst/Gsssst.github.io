@@ -18,3 +18,13 @@ Research
 Conference:
  
 1.Haotang Li, S. Guo, K. Lyu, X. Yang, T. Chen, J. Zhu, H. Zeng, A Challenging Benchmark of Anime Style Recognition, Computer Vision and Pattern Recognition (CVPR) Workshops         [paper](../assets/paper.pdf) / [code](https://github.com/nkjcqvcpi/ASR) 
+
+Patent:
+
+1.J. Zhu, S. Guo, Haotang Li, Q. Zhao, H. Zeng, Y. Liao, J. Du, C. Cai, Vehicle re-identification method based on dynamic convolution transducer: CN115995065A, Pending.
+
+Grand:
+
+1.National Training Program on Undergraduate Innovation and Entrepreneurship, China, 202110385018, “Deep Learning based Method Research on Anime Style Recognition”, ¥20000, Co-PI.
+
+2.National Training Program on Undergraduate Innovation and Entrepreneurship, China, 202210385012, “Optimization Research on Self-Attention Mechanism in Vision Neural Network”, ¥20000, PI.
