@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a forth year undergraduate student from [College of Engineering](https://gxy.hqu.edu.cn/), [Huaqiao University](https://www.hqu.edu.cn/). My research interest includes computer vision, machine learning, and computational photography.
+I'm a forth year undergraduate student from [College of Engineering](https://gxy.hqu.edu.cn/), [Huaqiao University](https://www.hqu.edu.cn/). My research interest includes computer vision, machine learning, and Computer graphics.
 
 You can find my CV here: [Guo_shengtao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
