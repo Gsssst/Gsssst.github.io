@@ -14,8 +14,7 @@ You can find my CV here: [Guo_shengtao's Curriculum Vitae](../assets/Curriculum_
 [Email](mailto:shengtao_guo@stu.hqu.edu.cn) / [Github](https://github.com/Gsssst) / [Wechat](../images/wechat.jpg)
 
  Research
- =====
- 
+ ======
  Conference:
  
-1.Haotang Li, S. Guo, K. Lyu, X. Yang, T. Chen, J. Zhu, H. Zeng, A Challenging Benchmark of Anime Style Recognition, Computer Vision and Pattern Recognition (CVPR) Workshops [paper](../assets/paper.pdf) / [code/dataset](https://github.com/nkjcqvcpi/ASR) 
+1.Haotang Li, S. Guo, K. Lyu, X. Yang, T. Chen, J. Zhu, H. Zeng, A Challenging Benchmark of Anime Style Recognition, Computer Vision and Pattern Recognition (CVPR) Workshops         [paper](../assets/paper.pdf) / [code/dataset](https://github.com/nkjcqvcpi/ASR) 
