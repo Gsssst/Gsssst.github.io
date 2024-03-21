@@ -3,7 +3,7 @@ title: "A challenging benchmark of Anime Style Recognition"
 collection: publications
 permalink: /publication/Anime_style_recognition
 excerpt: 'This paper is about the Anime style recognition.'
-date: 2022-06
+date: 2022-06-19
 venue: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops'
 paperurl: 'http://Gsssst.github.io/files/paper.pdf'
 citation: 'H. Li , S. Guo et al., "A Challenging Benchmark of Anime Style Recognition," 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), New Orleans, LA, USA, 2022, pp. 4720-4729'
