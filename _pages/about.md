@@ -17,11 +17,11 @@ Research
 ======
 Conference:
  
-1.Haotang Li, S. Guo, K. Lyu, X. Yang, T. Chen, J. Zhu, H. Zeng, A Challenging Benchmark of Anime Style Recognition, Computer Vision and Pattern Recognition (CVPR) Workshops         [paper](../assets/paper.pdf) / [code](https://github.com/nkjcqvcpi/ASR) 
+1.H. Li, Shengtao Guo, K. Lyu, X. Yang, T. Chen, J. Zhu, H. Zeng, A Challenging Benchmark of Anime Style Recognition, Computer Vision and Pattern Recognition (CVPR) Workshops         [paper](../assets/paper.pdf) / [code](https://github.com/nkjcqvcpi/ASR) 
 
 Patent:
 
-1.J. Zhu, S. Guo, Haotang Li, Q. Zhao, H. Zeng, Y. Liao, J. Du, C. Cai, Vehicle re-identification method based on dynamic convolution transducer: CN115995065A, Pending.
+1.J. Zhu, Shengtao Guo, H. Li, Q. Zhao, H. Zeng, Y. Liao, J. Du, C. Cai, Vehicle re-identification method based on dynamic convolution transducer: CN115995065A, Pending.
 
 Grant:
 
