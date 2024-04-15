@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a forth year undergraduate student from [College of Engineering](https://gxy.hqu.edu.cn/), [Huaqiao University](https://www.hqu.edu.cn/). My research interest includes computer vision, machine learning, and Computer graphics.
 
-You can find my CV here: [Guo_shengtao's Curriculum Vitae(Chinese)](../assets/Curriculum_Vitae.pdf) / [Guo_shengtao's Curriculum Vitae(English)](../assets/Curriculum_Vitae1.pdf). 
+You can find my CV here: [Guo_shengtao's Curriculum Vitae(Chinese)](../assets/Curriculum_Vitae.pdf) / [Guo_shengtao's Curriculum Vitae(English)](../assets/Curriculum_Vitae_Shengtao_Guo.pdf). 
 
 [Email](mailto:shengtao_guo@stu.hqu.edu.cn) / [Github](https://github.com/Gsssst) / [Wechat](../images/wechat.jpg)
 
