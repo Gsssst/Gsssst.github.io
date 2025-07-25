@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a forth year undergraduate student from [College of Engineering](https://gxy.hqu.edu.cn/), [Huaqiao University](https://www.hqu.edu.cn/). My research interest includes computer vision, machine learning, and Computer graphics.
-
-You can find my CV here: [Guo_shengtao's Curriculum Vitae(Chinese)](../assets/Curriculum_Vitae.pdf) / [Guo_shengtao's Curriculum Vitae(English)](../assets/Curriculum_Vitae_Shengtao_Guo.pdf). 
+I graduated from [Huaqiao University](https://www.hqu.edu.cn/) with a bachelor's degree in Internet of Things Engineering. Currently, I am a first-year postgraduate student majoring in Computer Technology at [South China University of Technology](https://www.scut.edu.cn/new/). Research Fields: Video grounding, Multimodal large models, agent development.
 
 [Email](mailto:shengtao_guo@stu.hqu.edu.cn) / [Github](https://github.com/Gsssst) / [Wechat](../images/wechat.jpg)
 
