@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I graduated from [Huaqiao University](https://www.hqu.edu.cn/) with a bachelor's degree in Internet of Things Engineering. Currently, I am currently pursuing a master's degree in computer science at [South China University of Technology](https://www.scut.edu.cn/new/).
+I graduated from [Huaqiao University](https://www.hqu.edu.cn/) with a bachelor's degree in Internet of Things Engineering. 
+I am currently pursuing a master's degree in computer science at [South China University of Technology](https://www.scut.edu.cn/new/).
 
 Research Fields: Video grounding, Multimodal large models, agent development.
 
