@@ -12,7 +12,7 @@ I am currently pursuing a master's degree in computer science at [South China Un
 
 Research Fields: Video grounding, Multimodal large models, agent development.
 
-[Email](mailto:shengtao_guo@stu.hqu.edu.cn) / [Github](https://github.com/Gsssst) / [Wechat](../images/wechat.jpg)
+[Email](mailto:csshengtao_guo@mail.scut.edu.cn) / [Github](https://github.com/Gsssst) / [Wechat](../images/wechat.jpg)
 
 Research
 ======
