@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I graduated from [Huaqiao University](https://www.hqu.edu.cn/) with a bachelor's degree in Internet of Things Engineering. Currently, I am a first-year postgraduate student majoring in Computer Technology at [South China University of Technology](https://www.scut.edu.cn/new/). Research Fields: Video grounding, Multimodal large models, agent development.
+I graduated from [Huaqiao University](https://www.hqu.edu.cn/) with a bachelor's degree in Internet of Things Engineering. Currently, I am a first-year postgraduate student majoring in Computer Technology at [South China University of Technology](https://www.scut.edu.cn/new/). 
+
+Research Fields: Video grounding, Multimodal large models, agent development.
 
 [Email](mailto:shengtao_guo@stu.hqu.edu.cn) / [Github](https://github.com/Gsssst) / [Wechat](../images/wechat.jpg)
 
