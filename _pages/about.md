@@ -10,7 +10,7 @@ redirect_from:
 I graduated from [Huaqiao University](https://www.hqu.edu.cn/) with a bachelor's degree in Internet of Things Engineering. 
 I am currently pursuing a master's degree in computer science at [South China University of Technology](https://www.scut.edu.cn/new/).
 
-Research Fields: Video grounding, Multimodal large models, agent development.
+Research Fields: Video grounding, Multimodal large models, Agent development.
 
 [Email](mailto:csshengtao_guo@mail.scut.edu.cn) / [Github](https://github.com/Gsssst) / [Wechat](../images/wechat.jpg)
 
